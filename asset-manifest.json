@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/repo-name/static/css/main.634704b0.css",
-    "main.js": "/repo-name/static/js/main.7a958282.js",
-    "static/js/787.a0b06272.chunk.js": "/repo-name/static/js/787.a0b06272.chunk.js",
-    "static/media/busbooking.jpg": "/repo-name/static/media/busbooking.29d625f5b85bf176f880.jpg",
-    "static/media/Tours & Travels-logos.jpeg": "/repo-name/static/media/Tours & Travels-logos.05f552659a9655aadbc2.jpeg",
-    "static/media/bookbus.png": "/repo-name/static/media/bookbus.f2e3f740f01b330cb8f3.png",
-    "static/media/Tours & Travels-logos_white.png": "/repo-name/static/media/Tours & Travels-logos_white.a9dcea2c05f32d1ca5db.png",
-    "static/media/busimage.jpg": "/repo-name/static/media/busimage.5e3087cc84cf2dcc4219.jpg",
-    "static/media/animated-bus-image-0007.gif": "/repo-name/static/media/animated-bus-image-0007.f7376720b9e6c6e56308.gif",
-    "index.html": "/repo-name/index.html",
-    "main.634704b0.css.map": "/repo-name/static/css/main.634704b0.css.map",
-    "main.7a958282.js.map": "/repo-name/static/js/main.7a958282.js.map",
-    "787.a0b06272.chunk.js.map": "/repo-name/static/js/787.a0b06272.chunk.js.map"
+    "main.css": "/book/static/css/main.634704b0.css",
+    "main.js": "/book/static/js/main.65c13453.js",
+    "static/js/787.a0b06272.chunk.js": "/book/static/js/787.a0b06272.chunk.js",
+    "static/media/busbooking.jpg": "/book/static/media/busbooking.29d625f5b85bf176f880.jpg",
+    "static/media/Tours & Travels-logos.jpeg": "/book/static/media/Tours & Travels-logos.05f552659a9655aadbc2.jpeg",
+    "static/media/bookbus.png": "/book/static/media/bookbus.f2e3f740f01b330cb8f3.png",
+    "static/media/Tours & Travels-logos_white.png": "/book/static/media/Tours & Travels-logos_white.a9dcea2c05f32d1ca5db.png",
+    "static/media/busimage.jpg": "/book/static/media/busimage.5e3087cc84cf2dcc4219.jpg",
+    "static/media/animated-bus-image-0007.gif": "/book/static/media/animated-bus-image-0007.f7376720b9e6c6e56308.gif",
+    "index.html": "/book/index.html",
+    "main.634704b0.css.map": "/book/static/css/main.634704b0.css.map",
+    "main.65c13453.js.map": "/book/static/js/main.65c13453.js.map",
+    "787.a0b06272.chunk.js.map": "/book/static/js/787.a0b06272.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.634704b0.css",
-    "static/js/main.7a958282.js"
+    "static/js/main.65c13453.js"
   ]
 }
